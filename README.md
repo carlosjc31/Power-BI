@@ -1,5 +1,4 @@
-## Power-BI
-Dashboard de vendas
+## Dashboard de vendas
 
 Descrição:
 
